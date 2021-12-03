@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="lbl_app_not_installed">La aplicación no se encuentra instalada!</string>
+    <string name="lbl_googleplay_error_open">No fue posible iniciar Google Play para descargar aplicación requerida @appPackage</string>
+
+    <string name="lbl_app_error_open">No fue posible iniciar aplicación requerida @appPackage</string>
+</resources>

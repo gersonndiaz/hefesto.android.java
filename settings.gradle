@@ -1,0 +1,3 @@
+include ':hefesto-android'
+include ':app'
+rootProject.name = "Hefesto"
